@@ -23,13 +23,13 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-`TypeScript` · `JavaScript` · `Python` · `SQL` · `C (Microcontrollers)` · `Bash`
+`JavaScript` · `Python` · `C#` 
 
 **Frontend & Mobile**  
-`React` · `Next.js` · `React Native` · `Expo`
+`React` · `TypeScript` · `Next.js` · `React Native` · `Expo` 
 
 **Backend**  
-`Node.js` · `Java` · `Spring Boot` · `REST API`
+`Node.js` · `Java` · `Spring Boot` · `REST API`  
 
 **Data & BI**  
 `PostgreSQL` · `MySQL` · `Mongo`
