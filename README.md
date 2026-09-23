@@ -9,16 +9,13 @@
 </p>
 
 <h1 align="center">👋 Hey, I'm Uriel</h1>
-<h3 align="center">Fullstack & Mobile Developer | NestJS • React Native • DevOps</h3>
+<h3 align="center">Fullstack & Mobile Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Software Engineering Graduate** — Master's in Information Systems, Development & AI  
-- 🏭 **Apprenticeship at ACC (Automotive Cells Company)** — Industrial Web Supervision (SCADA 2D/3D, Python, SQL)  
-- 📱 **Creator of Lambda Project** — Gamified mobile app for goal and habit tracking  
-- 🌱 Currently improving my skills in **Figma**, **Advanced NestJS**, **DevOps & CI/CD**  
+- 🎓 **Software Engineering Graduate** — Master's in Information Systems, Development & AI    
 - 🎯 Mindset: *Build. Break. Improve. Repeat.*
 
 ---
@@ -32,13 +29,13 @@
 `React` · `Next.js` · `React Native` · `Expo`
 
 **Backend**  
-`NestJS` · `Express` · `REST API` · `GraphQL`
+`Node.js` · `Java` · `Spring Boot` · `REST API`
 
 **Data & BI**  
-`PostgreSQL` · `MySQL` · `Pandas` · `Power BI` · `ETL Pipelines`
+`PostgreSQL` · `MySQL` · `Mongo`
 
-**DevOps & Tools**  
-`Docker` · `Git / GitHub` · `GitHub Actions` · `Linux` · `VS Code` · `Figma`
+**DevOps**  
+`Docker` · `Git / GitHub` · `GitHub Actions` · `CI / CD`
 
 ---
 
@@ -46,8 +43,6 @@
 
 | Project | Description | Stack |
 |---------|-------------|--------|
-| **Lambda App** | Gamified habit & goal-tracking mobile app with XP, rewards, and challenges | React Native · Expo · Zustand |
-| **ACC SCADA** | Web-based 2D/3D industrial supervision platform (process, energy, maintenance) | Python · Ignition · SQL |
 
 ---
 
