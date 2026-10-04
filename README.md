@@ -5,17 +5,20 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Fullstack+%26+Mobile+Developer;NestJS+%7C+React+Native+%7C+DevOps;Build%2C+Break%2C+Improve%2C+Repeat." alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Java+(Spring+Boot)+%7C+React+(TypeScript);Build%2C+Break%2C+Improve%2C+Repeat." alt="Typing Animation">
 </p>
 
 <h1 align="center">👋 Hey, I'm Uriel</h1>
-<h3 align="center">Fullstack & Mobile Developer</h3>
+<h3 align="center">Full-Stack Engineer · Java & React</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Software Engineering Graduate** — Master's in Information Systems, Development & AI    
+- 🎓 **Engineering graduate from ISEN** — Master's in Information Systems, Development & AI
+- 💻 **Full-Stack Developer** specialized in **Java (Spring Boot)** and **React (TypeScript)**
+- 🏭 **3 years of work-study (apprenticeship)** at **Automotive Cells Company (ACC)**
+- 🤖 Currently building AI-powered enterprise apps (RAG, LLMs, vector search)
 - 🎯 Mindset: *Build. Break. Improve. Repeat.*
 
 ---
@@ -23,16 +26,16 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-`JavaScript` · `Python` · `C#` 
+`Java` · `TypeScript` · `JavaScript` · `Python` · `C#`
 
 **Frontend & Mobile**  
 `React` · `TypeScript` · `Next.js` · `React Native` · `Expo` 
 
 **Backend**  
-`Node.js` · `Java` · `Spring Boot` · `REST API`  
+`Java` · `Spring Boot` · `Spring AI` · `Node.js` · `REST API` · `SSE`
 
 **Data & BI**  
-`PostgreSQL` · `MySQL` · `Mongo`
+`PostgreSQL` · `pgvector` · `MySQL` · `MongoDB`
 
 **DevOps**  
 `Docker` · `Git / GitHub` · `GitHub Actions` · `CI / CD`
@@ -41,8 +44,15 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|--------|
+### 🧠 [Enterprise RAG Assistant](https://github.com/scorpio-uriel/enterprise-rag-assistant)
+A complete enterprise document-AI architecture: ingest internal documents, index them as embeddings in **pgvector**, and answer questions with grounded, sourced responses streamed in real time.
+
+- ⚙️ **Backend** — Spring Boot + Spring AI (RAG pipeline, embeddings, LLM orchestration)
+- 🗄️ **Vector store** — PostgreSQL + pgvector
+- ⚡ **Streaming** — Server-Sent Events (SSE) for token-by-token answers
+- 🎨 **Frontend** — React + TypeScript
+
+`Spring Boot` · `Spring AI` · `pgvector` · `SSE` · `React` · `TypeScript`
 
 ---
 
@@ -66,9 +76,6 @@
   <img height="180" src="https://streak-stats.demolab.com?user=scorpio-uriel&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scorpio-uriel&theme=onedark&row=1&column=6" />
-</p>
 
 ---
 
