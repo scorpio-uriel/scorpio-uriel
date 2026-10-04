@@ -92,7 +92,7 @@ A complete enterprise document-AI architecture: ingest internal documents, index
 
 ## 📬 Contact
 
-📎 **Portfolio** — Coming soon  
+📎 **Portfolio** — https://scorpio-uriel.github.io/  
 💼 **LinkedIn** — https://www.linkedin.com/in/uriel-arthur-millogo-065792228/  
 📧 **Email** — uriel.millogo.pro@gmail.com
 
